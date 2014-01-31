@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vsix Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="9ec8f525-55cf-419a-b3df-143623bd03ee">
+    <Name>Smooth Scroll</Name>
+    <Author>Rick Sladkey</Author>
+    <Version>1.0.1</Version>
+    <Description>Smooth scrolling for the Visual Studio text editor</Description>
+    <MoreInfoUrl>https://github.com/ricksladkey/SmoothScroll</MoreInfoUrl>
+    <Locale>1033</Locale>
+    <License>license.txt</License>
+    <Icon>package-icon.png</Icon>
+    <PreviewImage>package-screenshot.png</PreviewImage>
+    <SupportedProducts>
+      <VisualStudio Version="10.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+        <Edition>IntegratedShell</Edition>
+      </VisualStudio>
+      <VisualStudio Version="11.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+        <Edition>IntegratedShell</Edition>
+      </VisualStudio>
+      <VisualStudio Version="12.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+        <Edition>IntegratedShell</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="5.0" />
+  </Identifier>
+  <References />
+  <Content>
+    <MefComponent>|SmoothScroll|</MefComponent>
+  </Content>
+</Vsix>
