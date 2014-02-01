@@ -1,6 +1,6 @@
 # Smooth Scroll
 
-This is is an extension for Visual Studio for that adds smooth scrolling to the text editor.  It works best with a mouse pad or track pad that supports two-finger scrolling or a real mouse with a continuous wheel.
+This is an extension for Visual Studio that adds smooth scrolling to the text editor.  It works best with a mouse pad or track pad that supports two-finger scrolling or a real mouse with a continuous wheel.
 
 It's not complicated.  It gives you buttery smooth two-finger scrolling just like your favorite browser instead of the chunky seven lines per click scrolling built into Visual Studio.
 
