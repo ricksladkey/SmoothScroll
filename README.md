@@ -5,3 +5,7 @@ This is is an extension for Visual Studio for that adds smooth scrolling to the 
 ### Installation
 
 To install the extension, either use _Tools &rarr; Extensions and Updates&hellip;_ or go to the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/).
+
+#### Credits
+
+[Gesture icon](https://www.iconfinder.com/icons/80613/finger_gestureworks_scroll_two_icon)
