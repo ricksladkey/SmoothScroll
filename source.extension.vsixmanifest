@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Vsix Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
-  <Identifier Id="9ec8f525-55cf-419a-b3df-143623bd03ee">
+  <Identifier Id="9ec8f525-55cf-419a-b3df-1436deadbeef">
     <Name>Smooth Scroll</Name>
     <Author>Rick Sladkey</Author>
     <Version>1.0.0</Version>
