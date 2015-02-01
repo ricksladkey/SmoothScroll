@@ -8,7 +8,7 @@ It's not complicated.  It gives you buttery smooth scrolling just like your favo
 
 To install the extension, either use _Tools &rarr; Extensions and Updates&hellip;_ or go to the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/5fcc21b1-2c9b-4768-a5da-e309811d6b9e).
 
-![Two-finger scroll image](https://raw2.github.com/ricksladkey/SmoothScroll/master/package-screenshot.png)
+![Two-finger scroll image](https://raw.github.com/ricksladkey/SmoothScroll/master/package-screenshot.png)
 
 #### Credits
 
